@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33069925011",
+    "project_id": "appfilmes-a454c",
+    "storage_bucket": "appfilmes-a454c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33069925011:android:ca44e2ec13d9a7e36a8366",
+        "android_client_info": {
+          "package_name": "com.example.appfilmes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2kEGBlGYu7lGa3-oKdbDU-inOXFuWRnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
